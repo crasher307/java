@@ -6,6 +6,7 @@ import java.util.Scanner;
 
 public class pr1 {
     private static final Scanner scanner = new Scanner(System.in);
+
     public static void main(String[] args) {
         System.out.println(triangle(getInt()));
     }
