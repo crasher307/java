@@ -12,16 +12,17 @@ public class pr1 {
     }
 
     public static int getInt() {
+        System.out.print("Введите число: ");
+        int result = 0;
         try {
-            System.out.print("Введите число: ");
-            return scanner.nextInt();
+            result = scanner.nextInt();
         } catch (Exception e) {
             // TODO добавить логирование ошибок
-            return 0;
         }
+        return result;
     }
 
     private static int triangle(int n) {
-        return n <= 1 ? n : n + triangle(n - 1);
+        return n < 2 ? n : n-- + triangle(n);
     }
 }
