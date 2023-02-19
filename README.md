@@ -20,16 +20,25 @@
           - ~~Написать метод, который запишет массив, возвращенный предыдущим методом в файл.~~
           - ~~Обработать ошибки с помощью try-catch конструкции. В случае возникновения исключения, оно должно записаться в лог-файл.~~
     - [Домашнее задание](https://github.com/crasher307/java/tree/master/lesson2/homework)
-        - ~~[pr1](https://github.com/crasher307/java/blob/master/lesson2/homework/pr1.java) - ???~~
-        - ~~[pr2](https://github.com/crasher307/java/blob/master/lesson2/homework/pr2.java) - ???~~
-        - ~~[pr3](https://github.com/crasher307/java/blob/master/lesson2/homework/pr3.java) - ???~~
-        - ~~[pr4](https://github.com/crasher307/java/blob/master/lesson2/homework/pr4.java) - ???~~
+        - [pr1](https://github.com/crasher307/java/blob/master/lesson2/homework/pr1.java) - Дана строка sql-запроса "select * from students where ". Сформируйте часть WHERE этого запроса, используя StringBuilder.
+        - [pr2](https://github.com/crasher307/java/blob/master/lesson2/homework/pr2.java) - Реализуйте алгоритм сортировки пузырьком числового массива, результат после каждой итерации запишите в лог-файл.
+        - ~~[pr3 **](https://github.com/crasher307/java/blob/master/lesson2/homework/pr3.java) - Дана json строка (можно сохранить в файл и читать из файла).~~
+          - ~~Написать метод(ы), который распарсит json и, используя StringBuilder, создаст строки вида: Студент [фамилия] получил [оценка] по предмету [предмет].~~
+        - ~~[pr4 **](https://github.com/crasher307/java/blob/master/lesson2/homework/pr4.java) - Реализуйте простой калькулятор, с консольным интерфейсом. К калькулятору добавить логирование.~~
     </details>
 
-- <details><summary style="color: #b66"><b>[ waiting... ]</b> Урок 3. Коллекции JAVA: Введение</summary>
+- <details><summary style="color: #b85"><b>[ in process ]</b> Урок 3. Коллекции JAVA: Введение</summary>
 
     - [Работа во время семинара](https://github.com/crasher307/java/tree/master/lesson3/work)
         - ~~[pr1](https://github.com/crasher307/java/blob/master/lesson3/work/pr1.java) - ???~~
     - [Домашнее задание](https://github.com/crasher307/java/tree/master/lesson3/homework)
         - ~~[pr1](https://github.com/crasher307/java/blob/master/lesson3/homework/pr1.java) - ???~~
+    </details>
+
+- <details><summary style="color: #b66"><b>[ waiting... ]</b> Урок 4. Хранение и обработка данных ч1: приоритетные коллекции</summary>
+
+    - [Работа во время семинара](https://github.com/crasher307/java/tree/master/lesson4/work)
+        - ~~[pr1](https://github.com/crasher307/java/blob/master/lesson4/work/pr1.java) - ???~~
+    - [Домашнее задание](https://github.com/crasher307/java/tree/master/lesson4/homework)
+        - ~~[pr1](https://github.com/crasher307/java/blob/master/lesson4/homework/pr1.java) - ???~~
     </details>
