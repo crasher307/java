@@ -15,10 +15,10 @@ public class pr1 {
     private static String json = "{\"name\":\"Ivanov\", \"country\":\"Russia\", \"city\":\"Moscow\", \"age\":\"null\"}";
 
     public static void main(String[] args) {
-        System.out.println(request + GetParams(json));
+        System.out.println(request + getParams(json));
     }
 
-    private static String GetParams(String json) {
+    private static String getParams(String json) {
         var result = new ArrayList<String>();
         var find = Pattern
                 .compile("\"[^,]+\":\"[^,]+\"")
