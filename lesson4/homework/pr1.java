@@ -8,8 +8,8 @@ import java.util.Random;
 public class pr1 {
     private static final boolean viewLog = false;
     private static Random rand = new Random();
-     private static final int[] arr = create(0, 99, 10);
-//    private static final int[] arr = {6, 44, 94, 18, 55, 12, 42, 67};
+    private static final int[] arr = create(0, 99, 10);
+    // private static final int[] arr = {6, 44, 94, 18, 55, 12, 42, 67};
 
     public static void main(String[] args) {
         System.out.println("Стартовый: " + Arrays.toString(arr));
