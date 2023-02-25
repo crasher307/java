@@ -1,5 +1,8 @@
 ### Java: знакомство и как пользоваться базовым API (семинары)
 
+[//]: # (TODO привести в порядок)
+[//]: # (TODO Использовать библиотеку)
+
 - <details><summary style="color: #6b8">Урок 1. Знакомство с языком программирования Java</summary>
 
     - [Работа во время семинара](https://github.com/crasher307/java/tree/master/lesson1/work)
@@ -32,13 +35,21 @@
     - [Работа во время семинара](https://github.com/crasher307/java/tree/master/lesson3/work)
         - ~~[pr1](https://github.com/crasher307/java/blob/master/lesson3/work/pr1.java) - ???~~
     - [Домашнее задание](https://github.com/crasher307/java/tree/master/lesson3/homework)
-        - ~~[pr1](https://github.com/crasher307/java/blob/master/lesson3/homework/pr1.java) - ???~~
+        - [pr1](https://github.com/crasher307/java/blob/master/lesson3/homework/pr1.java) - Реализовать алгоритм сортировки слиянием.
     </details>
 
-- <details><summary style="color: #b66"><b>[ waiting... ]</b> Урок 4. Хранение и обработка данных ч1: приоритетные коллекции</summary>
+- <details><summary style="color: #b85"><b>[ in process ]</b> Урок 4. Хранение и обработка данных ч1: приоритетные коллекции</summary>
 
     - [Работа во время семинара](https://github.com/crasher307/java/tree/master/lesson4/work)
         - ~~[pr1](https://github.com/crasher307/java/blob/master/lesson4/work/pr1.java) - ???~~
     - [Домашнее задание](https://github.com/crasher307/java/tree/master/lesson4/homework)
         - ~~[pr1](https://github.com/crasher307/java/blob/master/lesson4/homework/pr1.java) - ???~~
+    </details>
+
+- <details><summary style="color: #b66"><b>[ waiting... ]</b> Урок 5. Хранение и обработка данных ч2: множество коллекций Map</summary>
+
+    - [Работа во время семинара](https://github.com/crasher307/java/tree/master/lesson5/work)
+        - ~~[pr1](https://github.com/crasher307/java/blob/master/lesson5/work/pr1.java) - ???~~
+    - [Домашнее задание](https://github.com/crasher307/java/tree/master/lesson5/homework)
+        - ~~[pr1](https://github.com/crasher307/java/blob/master/lesson5/homework/pr1.java) - ???~~
     </details>
