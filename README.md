@@ -1,6 +1,7 @@
 ### Java: знакомство и как пользоваться базовым API (семинары)
 
 [//]: # (TODO привести в порядок)
+[//]: # (TODO названия классов в CamelCase)
 [//]: # (TODO Использовать библиотеку)
 
 - <details><summary style="color: #6b8">Урок 1. Знакомство с языком программирования Java</summary>
@@ -43,13 +44,21 @@
     - [Работа во время семинара](https://github.com/crasher307/java/tree/master/lesson4/work)
         - ~~[pr1](https://github.com/crasher307/java/blob/master/lesson4/work/pr1.java) - ???~~
     - [Домашнее задание](https://github.com/crasher307/java/tree/master/lesson4/homework)
-        - ~~[pr1](https://github.com/crasher307/java/blob/master/lesson4/homework/pr1.java) - ???~~
+        - [pr1](https://github.com/crasher307/java/blob/master/lesson4/homework/pr1.java) - Реализовать алгоритм пирамидальной сортировки (HeapSort)
     </details>
 
-- <details><summary style="color: #b66"><b>[ waiting... ]</b> Урок 5. Хранение и обработка данных ч2: множество коллекций Map</summary>
+- <details><summary style="color: #b85"><b>[ in process ]</b> Урок 5. Хранение и обработка данных ч2: множество коллекций Map</summary>
 
     - [Работа во время семинара](https://github.com/crasher307/java/tree/master/lesson5/work)
         - ~~[pr1](https://github.com/crasher307/java/blob/master/lesson5/work/pr1.java) - ???~~
     - [Домашнее задание](https://github.com/crasher307/java/tree/master/lesson5/homework)
         - ~~[pr1](https://github.com/crasher307/java/blob/master/lesson5/homework/pr1.java) - ???~~
+    </details>
+
+- <details><summary style="color: #b66"><b>[ waiting... ]</b> Урок 6. Хранение и обработка данных ч3: множество коллекций Set</summary>
+
+    - [Работа во время семинара](https://github.com/crasher307/java/tree/master/lesson6/work)
+        - ~~[pr1](https://github.com/crasher307/java/blob/master/lesson6/work/pr1.java) - ???~~
+    - [Домашнее задание](https://github.com/crasher307/java/tree/master/lesson6/homework)
+        - ~~[pr1](https://github.com/crasher307/java/blob/master/lesson6/homework/pr1.java) - ???~~
     </details>
