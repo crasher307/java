@@ -1,7 +1,6 @@
-// homework n6
-// TODO ищет первый доступный путь, переделать на самый короткий
+// Реализовать задание и печать карты для волнового алгоритма
 
-package lesson5.work;
+package lesson5.homework;
 
 public class pr1 {
     public static void main(String[] args) {
@@ -136,6 +135,7 @@ class Labyrinth {
 
     // Поиск пути
     private void searchWay(boolean showWay) {
+        // TODO ищет первый доступный путь, переделать на самый короткий
         try {
             searchWay(posPlayer[0], posPlayer[1], 0, showWay);
         } catch (Exception e) {
