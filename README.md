@@ -44,7 +44,7 @@
     - [Работа во время семинара](https://github.com/crasher307/java/tree/master/lesson4/work)
         - ~~[pr1](https://github.com/crasher307/java/blob/master/lesson4/work/pr1.java) - ???~~
     - [Домашнее задание](https://github.com/crasher307/java/tree/master/lesson4/homework)
-        - [pr1](https://github.com/crasher307/java/blob/master/lesson4/homework/pr1.java) - Реализовать алгоритм пирамидальной сортировки (HeapSort)
+        - [pr1](https://github.com/crasher307/java/blob/master/lesson4/homework/pr1.java) - Реализовать алгоритм пирамидальной сортировки (HeapSort).
     </details>
 
 - <details><summary style="color: #b85"><b>[ in process ]</b> Урок 5. Хранение и обработка данных ч2: множество коллекций Map</summary>
@@ -52,7 +52,7 @@
     - [Работа во время семинара](https://github.com/crasher307/java/tree/master/lesson5/work)
         - ~~[pr1](https://github.com/crasher307/java/blob/master/lesson5/work/pr1.java) - ???~~
     - [Домашнее задание](https://github.com/crasher307/java/tree/master/lesson5/homework)
-        - ~~[pr1](https://github.com/crasher307/java/blob/master/lesson5/homework/pr1.java) - ???~~
+        - [pr1](https://github.com/crasher307/java/blob/master/lesson5/homework/pr1.java) - Реализовать задание и печать карты для волнового алгоритма.
     </details>
 
 - <details><summary style="color: #b66"><b>[ waiting... ]</b> Урок 6. Хранение и обработка данных ч3: множество коллекций Set</summary>
@@ -60,5 +60,5 @@
     - [Работа во время семинара](https://github.com/crasher307/java/tree/master/lesson6/work)
         - ~~[pr1](https://github.com/crasher307/java/blob/master/lesson6/work/pr1.java) - ???~~
     - [Домашнее задание](https://github.com/crasher307/java/tree/master/lesson6/homework)
-        - ~~[pr1](https://github.com/crasher307/java/blob/master/lesson6/homework/pr1.java) - ???~~
+        - [pr1](https://github.com/crasher307/java/blob/master/lesson6/homework/pr1.java) - Реализивать волновой алгоритм.
     </details>
