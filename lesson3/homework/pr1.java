@@ -9,31 +9,31 @@ public class pr1 {
     private static final Random rand = new Random();
 
     public static void main(String[] args) {
-        int[] num = Create(10, 100, 20);
-        String data = "create:\t" + Arrays.toString(num) + "\nresult:\t" + Arrays.toString(MergeSort(num)) + "\n";
+        int[] num = create(10, 100, 20);
+        String data = "create:\t" + Arrays.toString(num) + "\nresult:\t" + Arrays.toString(mergeSort(num)) + "\n";
         System.out.println(data);
     }
 
-    private static int[] Create(int min, int max, int count) {
+    private static int[] create(int min, int max, int count) {
         var num = new int[count];
         for (int i = 0; i < count; i++) num[i] = min + rand.nextInt(max - min + 1);
         return num;
     }
 
-    private static int[] MergeSort(int[] array) {
-        return MergeSort(array, new int[array.length], 0, array.length, false);
+    private static int[] mergeSort(int[] array) {
+        return mergeSort(array, new int[array.length], 0, array.length, false);
     }
 
-    private static int[] MergeSort(int[] array, boolean log) {
-        return MergeSort(array, new int[array.length], 0, array.length, log);
+    private static int[] mergeSort(int[] array, boolean log) {
+        return mergeSort(array, new int[array.length], 0, array.length, log);
     }
 
-    private static int[] MergeSort(int[] buf1, int[] buf2, int start, int end, boolean log) {
+    private static int[] mergeSort(int[] buf1, int[] buf2, int start, int end, boolean log) {
         if (start >= end - 1) return buf1;
         // Разбиение
         int mid = start + (end - start) / 2;
-        int[] b1 = MergeSort(buf1, buf2, start, mid, log);
-        int[] b2 = MergeSort(buf1, buf2, mid, end, log);
+        int[] b1 = mergeSort(buf1, buf2, start, mid, log);
+        int[] b2 = mergeSort(buf1, buf2, mid, end, log);
         // Сортировка
         int[] result = b1 == buf1 ? buf2 : buf1;
         int i1 = start, i2 = mid, i3 = start;
