@@ -2,9 +2,24 @@
 
 package lesson1.homework;
 
-public class pr1 extends lib.base {
+import java.util.Scanner;
+
+public class pr1 {
+    private static final Scanner scanner = new Scanner(System.in);
+
     public static void main(String[] args) {
-        System.out.println(triangle(getInt("Введите число")));
+        System.out.println(triangle(getInt()));
+    }
+
+    public static int getInt() {
+        System.out.print("Введите число: ");
+        int result = 0;
+        try {
+            result = scanner.nextInt();
+        } catch (Exception e) {
+            // TODO добавить логирование ошибок
+        }
+        return result;
     }
 
     private static int triangle(int n) {
