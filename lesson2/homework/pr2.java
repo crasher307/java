@@ -18,7 +18,7 @@ public class pr2 {
     }
 
     private static int[] create(int max, int count) {
-        var num = new int[count];
+        var num = new int[20];
         for (int i = 0; i < count; i++) {
             num[i] = rand.nextInt(max);
         }
